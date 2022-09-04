@@ -413,7 +413,7 @@ filter: invert(100%);
 
 /* projects section styling */
 .projects .title::after{
-    content: "Freelance Project";
+    content: "Freelance";
 }
 .projects .carousel .card{
     background: #222;
